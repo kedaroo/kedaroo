@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kedar Basutkar</h1>
 <h3 align="center">Infatuated with code and engineering..</h3>
 
-- 🔭 I’m currently working on [PAViC](https://github.com/kedaroo/PAViC)
-
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **krb2307@protonmail.com**
 
