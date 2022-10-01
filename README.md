@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kedar Basutkar</h1>
-<h3 align="center">Infatuated with code and engineering..</h3>
+<h3 align="center">Infatuated with all things code</h3>
 
 - 🌱 I’m currently learning **React**
 
