@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kedarbasutkar.me/](https://kedarbasutkar.me/)
 
-- 📝 I regularly write articles on [https://blog.kedarbasutkar.me/](https://blog.kedarbasutkar.me/)
+- 📝 I write articles on [https://blog.kedarbasutkar.me/](https://blog.kedarbasutkar.me/)
 
 <p align="left">
 </p>
