@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kedar</h1>
-<h3 align="center">A full-stack developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://kedarbasutkar.me/](https://kedarbasutkar.me/)
-
-- 📝 I write articles on [https://blog.kedarbasutkar.me/](https://blog.kedarbasutkar.me/)
+<h3 align="center">A software engineer from India</h3>
 
 <p align="left">
 </p>
